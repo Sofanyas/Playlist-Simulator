@@ -36,22 +36,22 @@ public class SongListExample {
 }
 ```
 
-# Song Comparator 
+# MySong
 
 ## Description
-This is a Java program that implements the Comparator interface to sort a list of Song objects by their titles in ascending order. This program uses the Bridges API to access the Song class.
+Program that implements the Comparator interface to sort a list of Song objects by their titles in ascending order. This program leverages the Bridges API to access the Song class and provides a customized comparison logic based on song titles.
 
 ## Dependencies
-To run this program, you will need the following:
+To run this program, ensure you have the following dependencies installed:
 
 - Java Development Kit (JDK)
 - Bridges API
 
 ## Usage
-This program is used in unison with MySong.java
+This program is designed to work in conjunction with the MySong class. Please refer to MySong.java for additional details.
 
 ## Acknowledgements
-This project uses the Bridges API 
+This project utilizes the Bridges API for seamless integration with the Song class.
 
 ## Credits
-This project was created by Sofanyas Genene on October 7th, 2022
+Created by Sofanyas Genene on October 7th, 2022.
